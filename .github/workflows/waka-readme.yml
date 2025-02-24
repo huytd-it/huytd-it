@@ -1,0 +1,17 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Chạy mỗi 12 giờ
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: athul/waka-readme@v3
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
