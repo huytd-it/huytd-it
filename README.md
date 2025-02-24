@@ -40,4 +40,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 February 2025 - To: 23 February 2025
+
+PHP              18 hrs 40 mins  █████████████████▓░░░░░░░   71.23 %
+JavaScript       6 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+CSS              39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Blade Template   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+```
+
 <!--END_SECTION:waka-->
