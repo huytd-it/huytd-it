@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 06 May 2025
+From: 24 July 2022 - To: 07 May 2025
 
-Total Time: 2,490 hrs 45 mins
+Total Time: 2,492 hrs 23 mins
 
-PHP                        1,306 hrs 16 mins>>>>>>>>>>>>>------------   52.31 %
-JavaScript                 854 hrs 44 mins >>>>>>>>>----------------   34.23 %
-TypeScript                 120 hrs 17 mins >------------------------   04.82 %
+PHP                        1,307 hrs 52 mins>>>>>>>>>>>>>------------   52.34 %
+JavaScript                 854 hrs 47 mins >>>>>>>>>----------------   34.21 %
+TypeScript                 120 hrs 17 mins >------------------------   04.81 %
 Python                     49 hrs 48 mins  -------------------------   01.99 %
 Blade Template             45 hrs 52 mins  -------------------------   01.84 %
-CSS                        44 hrs 20 mins  -------------------------   01.78 %
+CSS                        44 hrs 20 mins  -------------------------   01.77 %
 JSON                       16 hrs 54 mins  -------------------------   00.68 %
 HTML                       11 hrs 10 mins  -------------------------   00.45 %
 Markdown                   7 hrs 17 mins   -------------------------   00.29 %
